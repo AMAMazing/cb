@@ -5,7 +5,7 @@ Zero-dependency OpenAI-compatible clipboard bridge and XML multi-tool batch comp
 ## Quick Start (Run in any Codespace terminal)
 
 Run with npx:
-`npx -y gh:amamazing/cb`
+`npx -y amamazing/cb`
 
 Or run directly via curl:
 `curl -sL https://raw.githubusercontent.com/amamazing/cb/main/cline-bridge.js | node`
