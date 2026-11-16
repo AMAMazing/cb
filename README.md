@@ -7,6 +7,9 @@ Zero-dependency OpenAI-compatible clipboard bridge and XML multi-tool batch comp
 Run with npx:
 `npx -y amamazing/cb`
 
+Or force latest if cached:
+`npx -y amamazing/cb#main`
+
 Or run directly via curl:
 `curl -sL https://raw.githubusercontent.com/amamazing/cb/main/cline-bridge.js | node`
 
