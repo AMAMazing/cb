@@ -1,0 +1,13 @@
+{
+  "name": "cb",
+  "version": "1.0.0",
+  "description": "Zero-dependency OpenAI-compatible clipboard bridge and XML multi-tool batch compiler for Cline in GitHub Codespaces.",
+  "main": "cline-bridge.js",
+  "bin": {
+    "cb": "./cline-bridge.js"
+  },
+  "scripts": {
+    "prepare": "chmod +x cline-bridge.js || true",
+    "start": "node cline-bridge.js"
+  }
+}
